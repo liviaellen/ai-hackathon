@@ -1,0 +1,20 @@
+predefined_categories,keywords,number_of_keywords
+Kafe dan Minuman,"['cafe', 'coffee', 'kopi', 'tea', 'teh', 'drink', 'juice']",7
+Warung,"['warung', 'stall', 'hawker']",3
+Regional,"['indonesian', 'betawi', 'chinese', 'sunda', 'padang', 'javanese', 'japanese', 'malaysian']",8
+Restoran Umum,"['diner', 'kitchen', 'restaurant']",3
+Apotek dan Produk Kesehatan Lainnya,"['medical', 'pharmacy', 'drugs', 'health', 'baby', 'clinic']",6
+Retail,"['grocery', 'deli', 'supermarket', 'shopping', 'convenience', 'store', 'shop']",7
+Kosmetik,"['beauty', 'skin', 'salon', 'barber', 'beauty']",5
+Olahraga,"['sport', 'fitness', 'physical', 'gym']",4
+Otomotif,"['car', 'auto', 'vehicle', 'motorcycle']",4
+Printing,"['copy', 'printing', 'photocopy']",3
+Kebersihan,"['laundry', 'cleaner']",2
+Photo,['photographer'],1
+Jasa,['service'],1
+"Roti, Kue, dan Cemilan Lainnya","['fruit', 'martabak', 'bakery', 'murtabak', 'ice', 'cream', 'chocolate', 'snack']",8
+Peralatan dan Barang Elektronik,"['vaporizer', 'phone', 'cell', 'laptop', 'electronics', 'video', 'game', 'toy']",8
+Materials,"['building', 'materials', 'cement']",3
+Clothing,"['clothing', 'shirt', 'baju', 'jeans', 'kaos', 'tailor']",6
+Properti,"['hotel', 'property', 'housing', 'house']",4
+Others,"['company', 'investment']",2
